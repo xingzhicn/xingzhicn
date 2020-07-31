@@ -1,5 +1,3 @@
-<img src="https://github.com/xingzhicn/xingzhicn/blob/master/dog.gif" width="100">
-
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
 #### Platform&Tools
