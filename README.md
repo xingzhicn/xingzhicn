@@ -8,11 +8,11 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-idea-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/-Java-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Scala-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Rust-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Java-4fc08d?style=flat-square&logo=Java&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Scala-61dafb?style=flat-square&logo=Scala&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Rust-2496ED?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://nginx.org/)
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
