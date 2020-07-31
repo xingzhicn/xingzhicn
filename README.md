@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=ffffff)](https://www.scala.org/)
 [![](https://img.shields.io/badge/-Python-367BB2?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust.com/)
-[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://linux.org/)
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
