@@ -8,10 +8,10 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-idea-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/-Java-4fc08d?style=flat-square&logo=Java&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Scala-61dafb?style=flat-square&logo=Scala&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Rust-2496ED?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Java-C2CD21?style=flat-square&logo=Java&logoColor=ffffff)](https://https://www.java.com/)
+[![](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=ffffff)](https://www.scala.org/)
+[![](https://img.shields.io/badge/-Python-367BB2?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust.com/)
 [![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://nginx.org/)
 
 #### Console&Game
