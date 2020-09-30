@@ -36,13 +36,7 @@ Hive       🕓 2h38m  █▉░░░░░░░░░░░░░░░░░
 
 [powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
 
-</td>
-<td valign="top" width="50%">
 
-
-</td>
-</tr>
-</table>
 
 <!--
 **journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
